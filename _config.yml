@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Amanda Bower"
   avatar           : "profile_img.png"
-  bio              : "Applied Math PhD Candidate at the University of Michigan"
+  bio              : "Applied Math PhD Candidate"
   location         : "Ann Arbor, MI"
-  employer         :
+  employer         : "University of Michigan"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=J3r0-xIAAAAJ&hl=en"
   email            : amandarg@umich.edu
