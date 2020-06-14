@@ -7,7 +7,7 @@ author_profile: true
 [Preference Modeling with Context-Dependent Salient Features](https://arxiv.org/abs/2002.09615)  
 A Bower and L Balzano. *ICML 2020*.
 
-[Training individually fair ML models with sensitive subspace robustness](https://openreview.net/forum?id=B1gdkxHFDH)  
+[Training individually fair ML models with sensitive subspace robustness](https://arxiv.org/abs/1907.00020)  
 Y Yurochkin\*, A Bower\*, and Y Sun.  *ICLR 2020*.  
 [[code]](https://github.com/IBM/sensitive-subspace-robustness) [[talk]](https://iclr.cc/virtual/poster_B1gdkxHFDH.html)
 
