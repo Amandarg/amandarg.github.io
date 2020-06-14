@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amanda Bower"
 title_separator          : "-"
 name                     : &name "Amanda Bower"
-description              : &description "Ph.D Candidate at University of Michigan"
+description              : &description "Ph.D Candidate in Applied and Interdisciplinary at University of Michigan"
 url                      : https://amandarg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amandarg.github.io/"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Ritchie"
+  name             : "Amanda Bower"
   avatar           : "profile_img.png"
   bio              : "Ph.D. Candidate"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=os5KeBAAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=J3r0-xIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aritchie9590"
+  github           : "amandarg"
   google_plus      :
   keybase          :
   instagram        :
