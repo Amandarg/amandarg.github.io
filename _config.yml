@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amanda Bower"
 title_separator          : "-"
 name                     : &name "Amanda Bower"
-description              : &description "Ph.D Candidate in Applied and Interdisciplinary at University of Michigan"
+description              : &description "PhD Candidate in Applied and Interdisciplinary at University of Michigan"
 url                      : https://amandarg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amandarg.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amanda Bower"
   avatar           : "profile_img.png"
-  bio              : "Ph.D. Candidate"
+  bio              : "Applied Math PhD Candidate"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
