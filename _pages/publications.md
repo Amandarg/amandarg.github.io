@@ -8,11 +8,11 @@ author_profile: true
 A Bower and L Balzano. *ICML 2020*.
 
 [Training individually fair ML models with sensitive subspace robustness](https://openreview.net/forum?id=B1gdkxHFDH)  
-Y Yurochkin*, A Bower*, and Y Sun.  *ICLR 2020*. * = Equal contribution.  
+Y Yurochkin\*, A Bower\*, and Y Sun.  *ICLR 2020*.  
 [[code]](https://github.com/IBM/sensitive-subspace-robustness) [[talk]](https://iclr.cc/virtual/poster_B1gdkxHFDH.html)
 
 [Debiasing Representations by Removing Unwanted Variation Due to Protected Attributes](https://arxiv.org/pdf/1807.00461.pdf)  
-A Bower*, L Niss*, Y Sun*, and A Vargo*.  *FAT-ML workshop at ICML 2018*. * = Equal contribution.  
+A Bower\*, L Niss\*, Y Sun\*, and A Vargo\*.  *FAT-ML workshop at ICML 2018*.
 [[code]](https://github.com/Amandarg/debias)
 
 [The Landscape of Nonconvex Quadratic Feasibility](https://ieeexplore.ieee.org/document/8461868)  
@@ -20,4 +20,6 @@ A Bower, L Jain, L Balzano. *ICASSP 2018*.
 [[slides]](https://sigport.org/documents/landscape-non-convex-quadratic-feasibility)
 
 [Fair Pipelines](https://arxiv.org/pdf/1707.00391.pdf)  
-A Bower*, S Kitchen*, L Niss*, M Strauss*, A Vargo*, and S Venkatasubramanian*. *FAT-ML workshop at KDD 2017*. * = Equal contribution.
+A Bower\*, S Kitchen\*, L Niss\*, M Strauss\*, A Vargo\*, and S Venkatasubramanian\*. *FAT-ML workshop at KDD 2017*.
+
+\* = equal contribution
