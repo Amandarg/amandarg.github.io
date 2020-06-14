@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 [Debiasing Representations by Removing Unwanted Variation Due to Protected Attributes](https://arxiv.org/pdf/1807.00461.pdf)  
 A Bower*, L Niss*, Y Sun*, and A Vargo*.  *FAT-ML workshop at ICML 2018*. * = Equal contribution.  
 [code](https://github.com/Amandarg/debias)
