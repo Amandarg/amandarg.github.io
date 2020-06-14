@@ -11,7 +11,7 @@ A Bower and L Balzano. *ICML 2020*.
 Y Yurochkin\*, A Bower\*, and Y Sun.  *ICLR 2020*.  
 [[code]](https://github.com/IBM/sensitive-subspace-robustness) [[talk]](https://iclr.cc/virtual/poster_B1gdkxHFDH.html)
 
-[Debiasing Representations by Removing Unwanted Variation Due to Protected Attributes](https://arxiv.org/pdf/1807.00461.pdf)  
+[Debiasing Representations by Removing Unwanted Variation Due to Protected Attributes](https://arxiv.org/pdf/1807.00461.pdf)    
 A Bower\*, L Niss\*, Y Sun\*, and A Vargo\*.  *FAT-ML workshop at ICML 2018*.
 [[code]](https://github.com/Amandarg/debias)
 
