@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 [Training individually fair ML models with sensitive subspace robustness](https://iclr.cc/virtual/poster_B1gdkxHFDH.html)  
-at International Conference on Learning Representations (ICLR), 2020.
+ICLR 2020.
