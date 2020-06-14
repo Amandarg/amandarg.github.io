@@ -16,7 +16,7 @@ A Bower\*, L Niss\*, Y Sun\*, and A Vargo\*.  *FAT-ML workshop at ICML 2018*.
 [[code]](https://github.com/Amandarg/debias)
 
 [The Landscape of Nonconvex Quadratic Feasibility](https://ieeexplore.ieee.org/document/8461868)  
-A Bower, L Jain, L Balzano. *ICASSP 2018*.  
+A Bower, L Jain, L Balzano. *ICASSP 2018*. Selected for an oral presentation.  
 [[slides]](https://sigport.org/documents/landscape-non-convex-quadratic-feasibility)
 
 [Fair Pipelines](https://arxiv.org/pdf/1707.00391.pdf)  
