@@ -12,4 +12,4 @@ Hi! I am a PhD candidate in the [Applied and Interdisciplinary Mathematics](http
 
 My research is broadly in machine learning. In particular, I am interested in both preference learning and algorithmic fairness. I enjoy working on problems that are theoretically sound but practically motivated.
 
-See my publications and talks [here](https://amandarg.github.io/publications/) and my CV [here](https://amandarg.github.io/cv/).
+See my publications [here](https://amandarg.github.io/publications/) and my CV [here](https://amandarg.github.io/cv/).
