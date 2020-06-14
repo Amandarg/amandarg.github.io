@@ -9,8 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Supervised Principal Component Analysis via Manifold Optimization](../files/DSW_Presentation__LSPCA.pdf)  
-Talk, IEEE Data Science Workshop 2019
-
-[Supervised Principal Component Analysis via Manifold Optimization](../files/LSPCA_MSSISS_Poster.pdf)  
-Poster (Best Poster Award), Michigan Student Symposium for Interdisciplinary Statistical Sciences 2019
+[Training individually fair ML models with sensitive subspace robustness](https://iclr.cc/virtual/poster_B1gdkxHFDH.html)  
+at International Conference on Learning Representations (ICLR), 2020.
