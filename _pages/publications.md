@@ -8,7 +8,7 @@ author_profile: true
 A Bower and L Balzano. *ICML 2020*.
 
 [Training individually fair ML models with sensitive subspace robustness](https://arxiv.org/abs/1907.00020)  
-Y Yurochkin\*, A Bower\*, and Y Sun.  *ICLR 2020*. Spotlight talk.  
+M Yurochkin\*, A Bower\*, and Y Sun.  *ICLR 2020*. Spotlight talk.  
 [[code]](https://github.com/IBM/sensitive-subspace-robustness) [[talk]](https://iclr.cc/virtual/poster_B1gdkxHFDH.html)
 
 [Debiasing Representations by Removing Unwanted Variation Due to Protected Attributes](https://arxiv.org/pdf/1807.00461.pdf)  
