@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 [Preference Modeling with Context-Dependent Salient Features](https://arxiv.org/abs/2002.09615)  
-A Bower and L Balzano. *ICML 2020*. [[talk]](https://icml.cc/virtual/2020/paper/6525)
+A Bower and L Balzano. *ICML 2020*.  
+[[talk]](https://icml.cc/virtual/2020/paper/6525)
 
 [Training individually fair ML models with sensitive subspace robustness](https://arxiv.org/abs/1907.00020)  
 M Yurochkin\*, A Bower\*, and Y Sun.  *ICLR 2020*. Spotlight talk.  
