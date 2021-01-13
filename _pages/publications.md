@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Individually Fair Rankings
+Individually Fair Rankings\
 A Bower, H Eftekhari, M Yurochkin, and Y Sun. *ICLR 2021*.  
 
 [Preference Modeling with Context-Dependent Salient Features](https://arxiv.org/abs/2002.09615)  
