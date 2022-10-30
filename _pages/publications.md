@@ -26,7 +26,7 @@ T Lazovich, L Belli, A Gonzales, **A Bower**, U Tantipongpipat, K Lum, F Huszar,
 **A Bower** and L Balzano. *ICML 2020*.  
 [[talk]](https://icml.cc/virtual/2020/poster/6525)
 
-[Training individually fair ML models with sensitive subspace robustness](https://arxiv.org/abs/1907.00020)  
+[Training Individually Fair ML Models With Sensitive Subspace Robustness](https://arxiv.org/abs/1907.00020)  
 M Yurochkin\*, **A Bower**\*, and Y Sun.  *ICLR 2020*. Spotlight talk.  
 [[code]](https://github.com/IBM/sensitive-subspace-robustness) [[talk]](https://www.youtube.com/watch?v=zyfPO9bcIXI)
 
