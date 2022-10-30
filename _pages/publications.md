@@ -12,7 +12,7 @@ author_profile: true
 K Lum, Y Zhang, **A Bower**. *FAccT 2022*.  
 [[4 min talk]](https://www.youtube.com/watch?v=4fTOPbdUiQ0) [[15 min talk]](https://www.youtube.com/watch?v=kyWyp-d0r94) [[poster]](https://drive.google.com/file/d/1ASNkdRiVFZbCQrTWp1wEH29tMJxBLRg3/view)
 
-Classifying and Reporting Harms on Social Media
+Classifying and Reporting Harms on Social Media\
 A Bower, J Passmore, R Chowdhury, K Lum. *The Social Life of Algorithmic Harms, Data and Society Workshop*.
 
 [Measuring Disparate Outcomes of Recommendation Algorithms with Distributional Inequality Metrics](https://www.sciencedirect.com/science/article/pii/S2666389922001799)\
